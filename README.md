@@ -47,7 +47,8 @@ for i in range (n):
 ```
 
 ## Output:
-![Alt text](<Gussian Elimination output.png>)
+![Gussian Elimination output](https://github.com/ILAIYADEEPAN/Gaussian/assets/147473334/01197848-58aa-45a4-88df-e21c607ac874)
+
 
 
 ## Result:
